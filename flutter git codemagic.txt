@@ -1,0 +1,12 @@
+
+https://instacodeblog.com/uploading-your-flutter-project-to-github/
+
+git remote add origin https://github.com/fabbrigaru/flutter_webview_1.git
+
+
+https://codemagic.io/app/605f3af4e47844b786713c97/settings
+
+https://stackoverflow.com/questions/47006906/developing-for-ios-device-in-windows-environment-with-flutter
+
+
+https://github.com/fabbrigaru/flutter_webview_1/blob/master/codemagic.yaml
